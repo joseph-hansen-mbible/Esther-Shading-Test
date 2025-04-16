@@ -26,7 +26,7 @@ Material:
   m_Name: Dress Variant
   m_Shader: {fileID: -6465566751694194690, guid: c4d236cd4a44440e9aa8cea22c0b5d90, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: c4d236cd4a44440e9aa8cea22c0b5d90, type: 3}
-  m_ModifiedSerializedProperties: 24
+  m_ModifiedSerializedProperties: 8
   m_ValidKeywords:
   - _COLOR_PINK
   m_InvalidKeywords:
