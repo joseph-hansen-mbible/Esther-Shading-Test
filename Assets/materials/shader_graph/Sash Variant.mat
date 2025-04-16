@@ -26,7 +26,7 @@ Material:
   m_Name: Sash Variant
   m_Shader: {fileID: -6465566751694194690, guid: a01695a294d8d46c2982e01175a611dc, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: a01695a294d8d46c2982e01175a611dc, type: 3}
-  m_ModifiedSerializedProperties: 0
+  m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _COLOR_RED
   m_InvalidKeywords: []
