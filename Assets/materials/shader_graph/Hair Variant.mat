@@ -10,7 +10,7 @@ Material:
   m_Name: Hair Variant
   m_Shader: {fileID: -6465566751694194690, guid: 1cc6c892e0a2e49b5994ff5bbacd8c88, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 1cc6c892e0a2e49b5994ff5bbacd8c88, type: 3}
-  m_ModifiedSerializedProperties: 0
+  m_ModifiedSerializedProperties: 16
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4

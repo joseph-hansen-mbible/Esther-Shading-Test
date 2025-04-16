@@ -26,7 +26,7 @@ Material:
   m_Name: GoldStandard Variant 1
   m_Shader: {fileID: -6465566751694194690, guid: 36aa2ef9a90db49e2aa5ab0b82b9d54c, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 36aa2ef9a90db49e2aa5ab0b82b9d54c, type: 3}
-  m_ModifiedSerializedProperties: 8
+  m_ModifiedSerializedProperties: 24
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _DOUBLESIDED_ON

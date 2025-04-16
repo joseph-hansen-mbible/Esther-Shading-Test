@@ -10,7 +10,7 @@ Material:
   m_Name: pearls Variant
   m_Shader: {fileID: -6465566751694194690, guid: 96b43f59efce74ad296c20c7faede6a5, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 96b43f59efce74ad296c20c7faede6a5, type: 3}
-  m_ModifiedSerializedProperties: 28
+  m_ModifiedSerializedProperties: 12
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _DOUBLESIDED_ON

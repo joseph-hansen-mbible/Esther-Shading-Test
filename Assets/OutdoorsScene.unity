@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: e689715a707d642ab9a66ddc5db8b33e, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 4515fabec94f44aadb395edc12f5e636, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -297,8 +297,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   volumeAnchorOverride: {fileID: 0}
-  antialiasing: 3
-  SMAAQuality: 2
+  antialiasing: 1
+  SMAAQuality: 0
   dithering: 1
   stopNaNs: 0
   taaSharpenStrength: 0.5
@@ -935,7 +935,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Profile: {fileID: 11400000, guid: 8ba92e2dd7f884a0f88b98fa2d235fe7, type: 2}
-  m_StaticLightingSkyUniqueID: 4
+  m_StaticLightingSkyUniqueID: 0
   m_StaticLightingCloudsUniqueID: 0
   m_StaticLightingVolumetricClouds: 0
   bounces: 1
